@@ -1,0 +1,32 @@
+* {
+    margin: 0 auto;
+
+}
+
+body {
+    background-color: hsl(0deg 3% 93%)
+}
+
+header {
+    background-color: #0077b6;
+    width: 100%;
+    color: antiquewhite;
+    padding: 20px;
+}
+
+header h1 {
+    margin-left: 192px;
+}
+
+.container {
+    background-color: white;
+}
+
+#rowMaisVendidos {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#h2MaisVendidos {
+    margin-top: 20px;
+}
